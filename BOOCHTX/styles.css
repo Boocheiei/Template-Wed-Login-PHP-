@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+  
+  .navbar {
+    background-color: #ffffff;
+  }
+  
+  .hero {
+    background-color: #e9ecef;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
